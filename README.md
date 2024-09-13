@@ -1,1 +1,21 @@
 # dating_app_project
+
+1.  Project and github respository setup complete.
+
+2.  PROJECT SCOPING.  What is the point of this project?  What am I trying to achieve?
+    Hypothetical problem - Complaints of matches not being compatible.  Users are not satisfied with the level of accuracy with which they are matched. (This is a generalised problem for the sake of the project.  User disatisfaction could be specific to one group of users.  A real company would be able to provide that information.)
+    Impact of solving the problem - Greater proportion of satisfied customers, better reviews and more recommendations, resulting in more people signing up to the app. 
+      Possible goals for project:
+      - Predicting star signs to help future matches.
+      - Predicting religion.
+      - Predicting whether someone is looking for marriage using Naive Bayes.
+      - Predicting whether someone wants kids using Naive Bayes.
+      - Predicting whether someone likes dogs/cats.
+      - Predict someones diet using KNearestNeighbor.
+      The project will be successful if we can accurately assign more labels to someones profile, to increase their chances of getting a more compatible match.
+
+4.  DATA.  I have access to current client data.
+
+5.  ANALYSIS.  Initial analysis of the data will be carried out to see what distributions exist within the data.  After the initial analysis has been conducted, the project goals will be reviewed and viability checked.  Models will be developed to accomplish the goals.  Before we can consider any goals accomplished, model analysis will be conducted.
+
+6.  ETHICAL CONSIDERATIONS.  Privacy is upheld as there are no unique identifiers in the data.  No names, DoBs, etc.  The data is made up of characteristics, beliefs and preferences.
