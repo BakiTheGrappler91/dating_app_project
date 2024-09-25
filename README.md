@@ -7,9 +7,9 @@
     Impact of solving the problem - Greater proportion of satisfied customers, better reviews and more recommendations, resulting in more people signing up to the app. 
       Possible goals for project:
       - Predicting star signs to help future matches.
-      - Predicting religion.
       - Predicting whether someone is looking for marriage using Naive Bayes.
       - Predicting whether someone wants kids using Naive Bayes.
+      - Predicting whether someone is atheletic/academic using Naive Bayes.
       - Predicting whether someone likes dogs/cats.
       - Predict someones diet using KNearestNeighbor.
       The project will be successful if we can accurately assign more labels to someones profile, to increase their chances of getting a more compatible match.
